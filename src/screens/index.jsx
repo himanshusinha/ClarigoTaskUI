@@ -1,0 +1,9 @@
+export {default as SplashScreen} from '../screens/Splash/SplashScreen';
+export {default as LoginScreen} from '../screens/Login/LoginScreen';
+export {default as OnBoardingScreen} from '../screens/OnBoarding/OnBoardingScreen';
+export {default as ProductDetailsScreen} from '../screens/Products/ProductDetailsScreen';
+export {default as HomeScreen} from '../screens/Home/HomeScreen';
+export {default as ShopScreen} from '../screens/Shop/ShopScreen';
+export {default as FavouriteScreen} from '../screens/Favourite/FavouriteScreen';
+export {default as ProfileScreen} from '../screens/Profile/ProfileScreen';
+export {default as BottomNavigation} from '../../src/navigations/BottomNavigation';
